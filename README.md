@@ -1,2 +1,0 @@
-# Nose
-Para esto estudio?
